@@ -1,7 +1,7 @@
-# M10.2. JSX con React — Proyecto de Demostración para el Aula
+﻿# M10.2. JSX con React — Proyecto de Demostración para el Aula
 
 **Autor:** Guillermo Prat Astillero · Desarrollo de Interfaces (2º DAM)
-**Aplicación desplegada:** https://TU-PROYECTO.vercel.app
+**Aplicación desplegada:** https://m10-2-jsx-react-demo-peach.vercel.app
 
 ## Mejoras implementadas (sprint de 10 tickets)
 
